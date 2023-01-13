@@ -1,1 +1,1 @@
-# image Generatot for my quotes app
+# image Generator for my quotes app
